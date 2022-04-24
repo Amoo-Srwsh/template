@@ -8,7 +8,7 @@ using namespace std;
 #define fi       first
 #define se       second
 #define cl       clear
-struct _read {  //Cool way to read data in
+struct _read {  //Cool way to read data in c++
     	template<class T> operator T() {
         	T x;
         	cin >> x;
